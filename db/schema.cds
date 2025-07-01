@@ -1,3 +1,4 @@
+
 using { managed } from '@sap/cds/common';
 
 namespace sales;
