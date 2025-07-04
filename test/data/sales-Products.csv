@@ -1,0 +1,11 @@
+id,name,price,createdAt,createdBy,modifiedAt,modifiedBy
+15288762-ca42-4b00-9366-c51052abe383,name-15288762,12637391.27,2000-09-03T02:00:00.000Z,createdBy.93ovu@example.net,2017-09-29T02:00:00.000Z,modifiedBy.93ovu@example.org
+535652df-7678-45db-9b7c-26ecdd76c04b,name-53565,9407655.93,2020-04-03T02:00:00.000Z,createdBy.15bx@example.org,2016-06-08T02:00:00.000Z,modifiedBy.15bx@example.org
+53566624-b88a-4afb-aa1f-32d6b2cb6f2d,name-53566,12559577.58,2006-03-10T02:00:00.000Z,createdBy.15by@example.com,2017-12-09T02:00:00.000Z,modifiedBy.15by@example.com
+535672e6-0aa8-4882-b2a6-0449bdd75a87,name-53567,11921821.29,2008-10-12T02:00:00.000Z,createdBy.15bz@example.org,2010-03-05T02:00:00.000Z,modifiedBy.15bz@example.com
+53568744-8973-44e4-9d9c-c016ca82b50f,name-53568,23724653.56,2012-03-27T02:00:00.000Z,createdBy.15c0@example.org,2016-05-08T02:00:00.000Z,modifiedBy.15c0@example.org
+535694a8-e4c0-4d70-8b33-fc9de93a65c3,name-53569,9550634.31,2020-05-11T02:00:00.000Z,createdBy.15c1@example.org,2003-09-25T02:00:00.000Z,modifiedBy.15c1@example.com
+53570c15-0370-4fe5-af26-1352aed44367,name-53570,19632318.28,2019-10-23T02:00:00.000Z,createdBy.15c2@example.org,2001-01-12T02:00:00.000Z,modifiedBy.15c2@example.net
+535712a7-9e4d-4b6c-8139-fcfba72a3caf,name-53571,9360872.16,2020-07-25T02:00:00.000Z,createdBy.15c3@example.net,2011-07-29T02:00:00.000Z,modifiedBy.15c3@example.org
+53572a24-e950-4be1-89ea-deeffb44e343,name-53572,26927849.86,2001-01-15T02:00:00.000Z,createdBy.15c4@example.net,2021-09-12T02:00:00.000Z,modifiedBy.15c4@example.org
+535731f3-1d64-4c13-b9cf-0acbde612a5d,name-53573,1457105.65,2005-04-21T02:00:00.000Z,createdBy.15c5@example.com,2019-08-16T02:00:00.000Z,modifiedBy.15c5@example.net
